@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+data/*.csv
+
+# Rust
+rust/target/
+
+# OS
+.DS_Store
+
+
