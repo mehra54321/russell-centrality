@@ -3,7 +3,7 @@ mod centrality;
 
 use std::fs::File;
 use csv::Writer;
-use petgraph::graph::NodeIndex;
+//use petgraph::graph::NodeIndex;
 
 fn main() {
     // 1) Load the graph
